@@ -5,10 +5,6 @@
 # Autores: Derik Adan
 #          Rafael Augusto
 # Data: 08 de novembro de 2018
-# QUARTO CENTRO INTEGRADO DE DEFESA AÉREA E CONTROLE DE TRÁFEGO AÉREO
-# Subseção de Tecnologia da informação
-# Informática operacional
-#
 
 # Localização do arquivo de configuração
 CONFIG="megacatcher.conf"
