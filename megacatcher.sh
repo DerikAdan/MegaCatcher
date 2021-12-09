@@ -38,7 +38,7 @@ case "$Menu_Principal" in
 
         ;;
         Adicionar)
-                IP_ODU=$(dialog --stdout --imputbox "Digite o IP da ODU:" 0 0)
+                IP_ODU=$(dialog --stdout --inputbox "Digite o IP da ODU:" 0 0)
                 [ "$IP_ODU" ] || exit 1
 
                 # Confere se já existe o cadastro da ODU
